@@ -1,5 +1,5 @@
 # InfiniteScroll
-# JokeTeller
+
 
 ***
 This is an app will continously load as you scroll [Unplash api!!](https://unsplash.com/developers)
